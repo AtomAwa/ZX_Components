@@ -1,5 +1,5 @@
 ---
-title: 在Axure中使用
+title: 如何在Axure中使用
 ---
 
 # 公司的元件库
@@ -34,4 +34,4 @@ title: 在Axure中使用
 ![avatar](/other/getstart/a_mangerset.jpg)
 ##
 
-Balabala...
+
