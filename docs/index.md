@@ -4,7 +4,7 @@ hero:
   desc: 从原型到产品的设计过程<br />使用我们的设计系统更好的构建跨境电商的应用程序
   actions:
     - text: 快速上手
-      link: /getting-started
+      link: /starts
 features:
   - icon: /image/h_fast.svg
     title: 每个人都可以访问
