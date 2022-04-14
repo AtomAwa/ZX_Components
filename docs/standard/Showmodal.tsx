@@ -13,7 +13,7 @@ const Showmodal = () => {
       <Modal
         className='update-panel'
         wrapClassName='update-panel'
-        title="Modal 1000px width"
+        title="open model"
         centered
         visible={visible}
         onOk={() => setVisible(false)}
