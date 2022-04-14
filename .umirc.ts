@@ -85,7 +85,13 @@ export default defineConfig({
         children:['/coms/anchor.zh-CN.md','/coms/backtop.zh-CN.md']
       }
       
-    ]
+    ],
+    '/standard':[
+      {
+        title:'Model 弹窗规范',
+        children:['/standard/basicmodel.zh-CN.md','/standard/drawer.zh-CN.md']
+      }
+    ],
   }
 
   
