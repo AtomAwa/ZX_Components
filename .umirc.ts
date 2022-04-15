@@ -1,7 +1,7 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  title: 'ZiUI',
+  title: 'ZiUX',
   mode: 'site',
   // more config: https://d.umijs.org/config
   locales: [['zh-CN', '中文']],
@@ -40,7 +40,7 @@ export default defineConfig({
   ],
 
   navs:[
-    {title: '快速上手', path: '/starts'},
+    {title: '文档', path: '/starts'},
     {title: '组件库', path: '/coms'},
     {title: '项目规范库',path: '',children:[
       {title: '设计通用规范',path:'/standard'},

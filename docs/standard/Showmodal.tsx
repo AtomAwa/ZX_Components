@@ -8,7 +8,7 @@ const Showmodal = () => {
   return (
     <div>
       <Button type="primary" onClick={() => setVisible(true)}>
-        Open Modal of 1000px width
+        Open Modal
       </Button>
       <Modal
         className='update-panel'
@@ -18,7 +18,7 @@ const Showmodal = () => {
         visible={visible}
         onOk={() => setVisible(false)}
         onCancel={() => setVisible(false)}
-        width={1000}
+        width={600}
       >
         <p>some contents...</p>
         <p>some contents...</p>
