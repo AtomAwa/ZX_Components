@@ -42,11 +42,13 @@ export default defineConfig({
   navs:[
     {title: '文档', path: '/starts'},
     {title: '组件库', path: '/coms'},
+    {title: '资源', path: '/resource'},
     {title: '项目规范库',path: '',children:[
       {title: '设计通用规范',path:'/standard'},
       {title: '紫鸟浏览器规范',path:'/sp-standard'},
     ]},
     { title: 'GitHub',path: 'https://github.com/AtomAwa/ZX_Components.git'},
+    
   ],
   menus:{
   '/coms':[
@@ -92,6 +94,8 @@ export default defineConfig({
         children:['/standard/basicmodel.zh-CN.md','/standard/drawer.zh-CN.md']
       }
     ],
+    // '/resource':[],
+    
   }
 
   
