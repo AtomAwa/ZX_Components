@@ -26,7 +26,7 @@ ideas:
   - icon: https://gw.alipayobjects.com/os/q/cms/images/k9zij2bh/67f75d56-0d62-47d6-a8a5-dbd0cb79a401_w96_h96.png
     title: 开发福音
     description: G6 + TypeScript + React，提供完整的类型定义文件，符合你的React开发体验
-footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
+footer: Open-source MIT Licensed | Copyright © 2023<br />Powered by 致茧Zhijian-Design
 
 ---
 

@@ -1,4 +1,4 @@
 ---
 title: Avatar 头像
 ---
-![avatar](/other/components/avatar_.jpg)
+![avatar](http://10.101.10.57/components/other/components/avatar_.jpg)

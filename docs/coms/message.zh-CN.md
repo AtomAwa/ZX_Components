@@ -1,4 +1,4 @@
 ---
 title: Message 全局提示
 ---
-![avatar](/other/components/message_.jpg)
+![avatar](http://10.101.10.57/components/other/components/message_.jpg)

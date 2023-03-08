@@ -21,7 +21,7 @@ export default () =>(
       //<Button type="primary">新建</Button>
       <Tabs type="card">
       <TabPane tab="组件样式" key="1">
-          <Image  src="/other/components/button_.jpg" preview={false}/>
+          <Image  src="http://10.101.10.57/components/other/components/button_.jpg" preview={false}/>
       </TabPane>
       <TabPane tab="使用指南" key="2">
         <p>Content of Tab Pane 2</p>

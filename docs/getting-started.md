@@ -23,15 +23,15 @@ title: 快速上手
 
 3、在Axure账户-管理账号()中添加内部服务器(Business On-Premises)
 
-![avatar](/other/getstart/a_managePage.jpg)
+![avatar](http://10.101.10.57/components/other/getstart/a_managePage.jpg)
 
 4、在界面中输入对应的账号密码
 
-![avatar](/other/getstart/a_signpage.jpg)
+![avatar](http://10.101.10.57/components/other/getstart/a_signpage.jpg)
 
 5、將配置好的服務器設置為默認服務器
 
-![avatar](/other/getstart/a_mangerset.jpg)
+![avatar](http://10.101.10.57/components/other/getstart/a_mangerset.jpg)
 ##
 
 Balabala...

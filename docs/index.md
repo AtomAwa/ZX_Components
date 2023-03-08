@@ -6,16 +6,16 @@ hero:
     - text: 快速上手
       link: ./starts
 features:
-  - icon: /image/h_fast.svg
+  - icon: ./image/h_fast.svg
     title: 每个人都可以访问
     desc: 使用高对比度、色盲安全调色板，并通过大多数辅助技术进行测试。
-  - icon: /image/h_zhuanye.svg
+  - icon: ./image/h_zhuanye.svg
     title: 灵活且可组合
     desc: 可配置得足以满足各种环境的需求，同时保持品牌和低级一致性。
-  - icon: /image/h_box.svg
+  - icon: ./image/h_box.svg
     title: 开箱即用
     desc: 开箱即用的高质量 React 组件,提炼自企业级中后台产品的交互语言和视觉风格
-footer: Open-source MIT Licensed | Copyright © 2020<br />
+footer: Open-source MIT Licensed | Copyright © 2023<br />Powered by 致茧Zhijian-Design
 ---
 
 ```tsx
@@ -33,7 +33,7 @@ export default () => (
     scale={1.2}
   >
     <a href="getting-started">
-      <img src="/image/h_des_use.png" />
+      <img src="./image/h_des_use.png" />
     </a>
   </Section>
 )

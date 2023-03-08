@@ -1,4 +1,4 @@
 ---
 title: Pagination 分页
 ---
-![avatar](/other/components/pagination_.jpg)
+![avatar](http://10.101.10.57/components/other/components/pagination_.jpg)

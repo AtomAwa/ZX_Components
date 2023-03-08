@@ -1,4 +1,4 @@
 ---
 title: TimePicker 时间选择器
 ---
-![avatar](/other/components/timepicker_.jpg)
+![avatar](http://10.101.10.57/components/other/components/timepicker_.jpg)

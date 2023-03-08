@@ -1,4 +1,4 @@
 ---
 title: Select 选择器
 ---
-![avatar](/other/components/select_.jpg)
+![avatar](http://10.101.10.57/components/other/components/select_.jpg)

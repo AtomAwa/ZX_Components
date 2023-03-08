@@ -1,12 +1,17 @@
 import { defineConfig } from 'dumi';
 
+// var rout:string = process.env.NODE_ENV === 'production' ? '/components':'/';
+// var logo = process.env.NODE_ENV === 'production' ?  '/components/image/logo.svg':'/image/logo.svg';
 export default defineConfig({
+  base: process.env.NODE_ENV === 'production' ? '/components':'/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/components/':'/',
+  exportStatic: {},
   title: 'ZiUX',
   mode: 'site',
-  // more config: https://d.umijs.org/config
+  //more config: https://d.umijs.org/config
   locales: [['zh-CN', '中文']],
-  logo: '/image/logo.svg',
-  favicon: '/image/logo.svg',
+  logo:process.env.NODE_ENV === 'production' ?  '/components/image/logo.svg':'/image/logo.svg',
+  favicon:process.env.NODE_ENV === 'production' ?  '/components/image/logo.svg':'/image/logo.svg',
   theme:{
     '@c-primary': '#45124e',
   },
@@ -56,7 +61,7 @@ export default defineConfig({
         title:'General 通用',
         children:['/coms/button','/coms/icon'],
       },
-      {
+      { 
         title:'Navigation 导航',
         children:['/coms/breadcrumb.zh-CN.md','/coms/dropdown.zh-CN.md','/coms/menu.zh-CN.md',
         '/coms/pageheader.zh-CN.md','/coms/pagination.zh-CN.md','/coms/steps.zh-CN.md',],

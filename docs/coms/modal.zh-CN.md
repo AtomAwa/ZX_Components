@@ -1,4 +1,4 @@
 ---
 title: Modal 对话框
 ---
-![avatar](/other/components/modal_.jpg)
+![avatar](http://10.101.10.57/components/other/components/modal_.jpg)
